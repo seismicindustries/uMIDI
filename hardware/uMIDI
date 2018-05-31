@@ -1,0 +1,262 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /5ACF5FBA;
+Reference = C1;
+ValeurCmp = C-US025-025X050;
+IdModule  = RCL_C025-025X050;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF6082;
+Reference = C2;
+ValeurCmp = C-US025-025X050;
+IdModule  = RCL_C025-025X050;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF614A;
+Reference = C3;
+ValeurCmp = C-US025-025X050;
+IdModule  = RCL_C025-025X050;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF6212;
+Reference = C4;
+ValeurCmp = CPOL-USE2.5-7;
+IdModule  = RCL_E2_5-7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF62DA;
+Reference = C5;
+ValeurCmp = C-US025-025X050;
+IdModule  = RCL_C025-025X050;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF63A2;
+Reference = D1;
+ValeurCmp = 1N47XXDO35;
+IdModule  = OG-DIODES_D-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF646A;
+Reference = D2;
+ValeurCmp = 1N47XXDO35;
+IdModule  = OG-DIODES_D-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF6B0F;
+Reference = H1;
+ValeurCmp = MOUNT-HOLE3.0;
+IdModule  = HOLES_3_0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF6BD7;
+Reference = H2;
+ValeurCmp = MOUNT-HOLE3.0;
+IdModule  = HOLES_3_0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF6C9F;
+Reference = H3;
+ValeurCmp = MOUNT-HOLE3.0;
+IdModule  = HOLES_3_0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF6D67;
+Reference = H4;
+ValeurCmp = MOUNT-HOLE3.0;
+IdModule  = HOLES_3_0;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF6E2F;
+Reference = IC1;
+ValeurCmp = ATTINY24/44/84-PU;
+IdModule  = ATTINY24_44_84_DIL14;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF6EF7;
+Reference = IC2;
+ValeurCmp = MCP4822;
+IdModule  = OG-DAC_DIL08;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF6FBF;
+Reference = J1;
+ValeurCmp = 1503_12;
+IdModule  = OG-LUMBERG_1503_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF7087;
+Reference = J2;
+ValeurCmp = 1503_12;
+IdModule  = OG-LUMBERG_1503_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF714F;
+Reference = J3;
+ValeurCmp = 1503_12;
+IdModule  = OG-LUMBERG_1503_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF7217;
+Reference = J4;
+ValeurCmp = 1503_12;
+IdModule  = OG-LUMBERG_1503_12;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF72DF;
+Reference = JP1;
+ValeurCmp = M06SIP;
+IdModule  = SPARKFUN_1X06;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF73A7;
+Reference = JP2;
+ValeurCmp = M06SIP;
+IdModule  = SPARKFUN_1X06;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF746F;
+Reference = JP3;
+ValeurCmp = M06SIP;
+IdModule  = SPARKFUN_1X06;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF7537;
+Reference = JP4;
+ValeurCmp = M06SIP;
+IdModule  = SPARKFUN_1X06;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF75FF;
+Reference = JP5;
+ValeurCmp = AVR_SPI_PRG_6PTH;
+IdModule  = SPARKFUN_2X3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF76C7;
+Reference = JP6;
+ValeurCmp = M06SIP;
+IdModule  = SPARKFUN_1X06;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF778F;
+Reference = JP7;
+ValeurCmp = M06SIP;
+IdModule  = SPARKFUN_1X06;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF7857;
+Reference = L1;
+ValeurCmp = L-US0207/10;
+IdModule  = RCL_0207_10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF791F;
+Reference = LED1;
+ValeurCmp = LED5MM;
+IdModule  = LED_LED5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF7CA3;
+Reference = Q1;
+ValeurCmp = CRYSTALHC49S;
+IdModule  = CRYSTAL_HC49_S;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF7D6B;
+Reference = R1;
+ValeurCmp = R-US_0204/7;
+IdModule  = RESISTOR_0204_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF7E33;
+Reference = R2;
+ValeurCmp = R-US_0204/7;
+IdModule  = RESISTOR_0204_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF7EFB;
+Reference = R3;
+ValeurCmp = R-US_0204/7;
+IdModule  = RESISTOR_0204_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF7FC3;
+Reference = R4;
+ValeurCmp = R-US_0204/7;
+IdModule  = RESISTOR_0204_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF808B;
+Reference = R5;
+ValeurCmp = R-US_0204/7;
+IdModule  = RESISTOR_0204_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF8153;
+Reference = R6;
+ValeurCmp = R-US_0204/7;
+IdModule  = RESISTOR_0204_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF821B;
+Reference = R7;
+ValeurCmp = R-US_0204/7;
+IdModule  = RESISTOR_0204_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF82E3;
+Reference = R8;
+ValeurCmp = R-US_0204/7;
+IdModule  = RESISTOR_0204_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF83AB;
+Reference = R9;
+ValeurCmp = R-US_0204/7;
+IdModule  = RESISTOR_0204_7;
+EndCmp
+
+BeginCmp
+TimeStamp = /5ACF8473;
+Reference = X2;
+ValeurCmp = USBPTH;
+IdModule  = SPARKFUN_USB-B-PTH;
+EndCmp
+
+EndListe

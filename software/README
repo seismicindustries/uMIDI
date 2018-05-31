@@ -1,0 +1,7 @@
+uMIDI is a clone of the cvpal from mutable instruments, a cheap and cheerful USB to CV/Gate interface.
+
+The firmware is released under a GPL3.0 license. It uses Objective Development's
+V-USB virtual USB library.
+
+All PCB layouts and schematics (of this project)
+are released under a Creative Commons cc-by-sa 3.0 license.

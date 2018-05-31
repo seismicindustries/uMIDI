@@ -1,0 +1,35 @@
+#********** START OF eagle6xx-sch-to-kicad-sch.ulp 2.0 12-04-2018 :15:29:32 LOG **********#
+Package Name Conflict: Package=0204/5 from internal SCH lib=rcl with package=0204/5 from LIB=resistor
+Package Name Conflict: Package=0204/7 from internal SCH lib=rcl with package=0204/7 from LIB=resistor
+Package Name Conflict: Package=0204V from internal SCH lib=rcl with package=0204V from LIB=resistor
+Package Name Conflict: Package=0207/2V from internal SCH lib=rcl with package=0207/2V from LIB=resistor
+Package Name Conflict: Package=0207/5V from internal SCH lib=rcl with package=0207/5V from LIB=resistor
+Package Name Conflict: Package=0207/7 from internal SCH lib=rcl with package=0207/7 from LIB=resistor
+Package Name Conflict: Package=0207/10 from internal SCH lib=rcl with package=0207/10 from LIB=resistor
+Package Name Conflict: Package=0207/12 from internal SCH lib=rcl with package=0207/12 from LIB=resistor
+Package Name Conflict: Package=0207/15 from internal SCH lib=rcl with package=0207/15 from LIB=resistor
+Package Name Conflict: Package=0204/5 from internal SCH lib=resistor with package=0204/5 from LIB=rcl
+Package Name Conflict: Package=0204/7 from internal SCH lib=resistor with package=0204/7 from LIB=rcl
+Package Name Conflict: Package=0204V from internal SCH lib=resistor with package=0204V from LIB=rcl
+Package Name Conflict: Package=0207/2V from internal SCH lib=resistor with package=0207/2V from LIB=rcl
+Package Name Conflict: Package=0207/5V from internal SCH lib=resistor with package=0207/5V from LIB=rcl
+Package Name Conflict: Package=0207/7 from internal SCH lib=resistor with package=0207/7 from LIB=rcl
+Package Name Conflict: Package=0207/10 from internal SCH lib=resistor with package=0207/10 from LIB=rcl
+Package Name Conflict: Package=0207/12 from internal SCH lib=resistor with package=0207/12 from LIB=rcl
+Package Name Conflict: Package=0207/15 from internal SCH lib=resistor with package=0207/15 from LIB=rcl
+#********** END OF eagle6xx-sch-to-kicad-sch.ulp 2.0 12-04-2018 :15:29:32 LOG **********#
+
+#********** START OF exp-lbrs.ulp 6.8 12-04-2018 :15:29:59 LOG **********#
+OK: Eagle library export from SCH/PCB successful
+    Conversion completed with no messages
+#********** END OF exp-lbrs.ulp 6.8 12-04-2018 :15:29:59 LOG **********#
+
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 3.1 12-04-2018 :15:30:31 LOG **********#
+Missing Prefix Part =''				OG-DAC_DIL08					cvpal_v01		M
+Missing Prefix Part =SO08				OG-DAC_SO08					cvpal_v01		M
+Missing Prefix Part =NS				SPARKFUN_2X3-NS					cvpal_v01		M
+Missing Prefix Part =OFFSET_PADS				SPARKFUN_2X3_OFFSET					cvpal_v01		M
+Missing Prefix Part =PTH				SPARKFUN_2X3					cvpal_v01		M
+#********** END OF eagle-lbr2kicad-1.0.ulp 3.1 12-04-2018 :15:30:31 LOG **********#
+
