@@ -998,9 +998,7 @@ Wire Wire Line
 Wire Wire Line
 	2325 3125 2425 3125
 Wire Wire Line
-	2325 3025 2325 3125
-Wire Wire Line
-	2325 3125 2325 3225
+	2325 3025 2325 3225
 Wire Wire Line
 	4725 2925 7825 2925
 Wire Wire Line
@@ -1028,15 +1026,11 @@ Wire Wire Line
 Wire Wire Line
 	5625 2725 5625 2625
 Wire Wire Line
-	4725 2725 5625 2725
-Wire Wire Line
-	5625 2725 5825 2725
+	4725 2725 5825 2725
 Wire Wire Line
 	5625 2325 5625 2425
 Wire Wire Line
-	5425 2325 5625 2325
-Wire Wire Line
-	5625 2325 5825 2325
+	5425 2325 5825 2325
 Wire Wire Line
 	5425 2625 5425 2325
 Wire Wire Line
@@ -1058,9 +1052,7 @@ Wire Wire Line
 Wire Wire Line
 	6225 2325 6225 2725
 Wire Wire Line
-	6125 2325 6225 2325
-Wire Wire Line
-	6225 2325 6425 2325
+	6125 2325 6425 2325
 Wire Wire Line
 	8425 3725 8425 3825
 Wire Wire Line
@@ -1072,21 +1064,15 @@ Wire Wire Line
 Wire Wire Line
 	6475 3625 6575 3625
 Wire Wire Line
-	2325 3525 2325 3625
-Wire Wire Line
-	2325 3625 2325 3725
+	2325 3525 2325 3725
 Wire Wire Line
 	2425 3625 2325 3625
 Wire Wire Line
-	8650 4375 8850 4375
-Wire Wire Line
-	8850 4375 8950 4375
+	8650 4375 8950 4375
 Wire Wire Line
 	4725 3325 4825 3325
 Wire Wire Line
-	6150 4375 6325 4375
-Wire Wire Line
-	6325 4375 6450 4375
+	6150 4375 6450 4375
 Wire Wire Line
 	6850 3525 6475 3525
 Wire Wire Line
@@ -1096,11 +1082,9 @@ Wire Wire Line
 Wire Wire Line
 	4725 2525 4925 2525
 Wire Wire Line
-	4825 4825 4825 4150
+	4825 3625 4825 4825
 Wire Wire Line
-	4825 4150 4825 3625
-Wire Wire Line
-	4725 4825 4825 4825
+	4825 4825 4725 4825
 Wire Wire Line
 	4825 3625 4725 3625
 Wire Wire Line
@@ -1124,9 +1108,7 @@ Wire Wire Line
 Wire Wire Line
 	3325 5025 3325 4825
 Wire Wire Line
-	9125 3525 9200 3525
-Wire Wire Line
-	9200 3525 9275 3525
+	9125 3525 9275 3525
 Wire Wire Line
 	9125 3025 9125 3525
 Wire Wire Line
@@ -1136,9 +1118,7 @@ Wire Wire Line
 Wire Wire Line
 	9125 2725 9275 2725
 Wire Wire Line
-	9125 2125 9125 2725
-Wire Wire Line
-	9125 2725 9125 2925
+	9125 2125 9125 2925
 Wire Wire Line
 	9125 2925 9025 2925
 Wire Wire Line
@@ -1150,23 +1130,15 @@ Wire Wire Line
 Wire Wire Line
 	4825 2425 4825 2325
 Wire Wire Line
-	4725 2425 4825 2425
-Wire Wire Line
-	4825 2425 4925 2425
+	4725 2425 4925 2425
 Wire Wire Line
 	2300 6425 2300 6475
 Wire Wire Line
 	2025 6425 2025 6475
 Wire Wire Line
-	3000 4925 3925 4925
+	3000 4925 4325 4925
 Wire Wire Line
-	3925 4925 4325 4925
-Wire Wire Line
-	7325 1725 7525 1725
-Wire Wire Line
-	7525 1725 7975 1725
-Wire Wire Line
-	7975 1725 8425 1725
+	7325 1725 8425 1725
 Wire Wire Line
 	7975 2225 7975 2125
 Wire Wire Line
@@ -1180,13 +1152,9 @@ Wire Wire Line
 Wire Wire Line
 	5900 5700 5900 5625
 Wire Wire Line
-	1875 4925 2025 4925
+	1875 4925 2350 4925
 Wire Wire Line
-	2025 4925 2350 4925
-Wire Wire Line
-	1875 5025 2300 5025
-Wire Wire Line
-	2300 5025 2350 5025
+	1875 5025 2350 5025
 Wire Notes Line
 	2675 4050 2675 6750
 Wire Notes Line

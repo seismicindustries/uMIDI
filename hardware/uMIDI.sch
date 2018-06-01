@@ -14,7 +14,7 @@ Rev "MK1"
 Comp "Seismic Industries"
 Comment1 "with breakaway carrierboard for ZX62D micro USB connector"
 Comment2 "imported via .ulp"
-Comment3 ""
+Comment3 "License: CC-BY-SA 3.0"
 Comment4 ""
 $EndDescr
 $Comp
